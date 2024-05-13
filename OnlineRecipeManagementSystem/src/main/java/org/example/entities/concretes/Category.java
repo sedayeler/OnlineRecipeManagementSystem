@@ -1,0 +1,5 @@
+package org.example.entities.concretes;
+
+public enum Category {
+    DINNER, LUNCH, BREAKFAST, DESSERT, APPETIZERS, SNACKS, BEVERAGES, SALAD, SOUP, SAUCE, PASTRY, PASTA, MEAT, POULTRY, SEAFOOD, VEGETABLES, FRUIT, NONE
+}
